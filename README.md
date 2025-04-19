@@ -128,10 +128,10 @@ Training and evaluation of the model follow these steps:
 
 Below you can find some example usage or example outputs of the system:
 
-- Sending a 10-value analog sequence like [1024,1011,1004,1020,1021,990,900,911,1024,990] results in the prediction: No Fire.
-- Sending a 10-value analog sequence like [550,225,330,650,313,423,547,143,120,135] results in the prediction: Suspicious Activity.
-- Sending a 10-value analog sequence like [45,28,26,27,40,34,32,32,32,28] results in the prediction: Suspicious Activity.
-- Sending a 10-value analog sequence like [15,23,12,20,20,21,10,21,22,10] results in the prediction: Fire.
+- Sending a 10-value analog sequence like **[1024,1011,1004,1020,1021,990,900,911,1024,990]** results in the prediction: No Fire.
+- Sending a 10-value analog sequence like **[550,225,330,650,313,423,547,143,120,135]** results in the prediction: Suspicious Activity.
+- Sending a 10-value analog sequence like **[45,28,26,27,40,34,32,32,32,28]** results in the prediction: Suspicious Activity.
+- Sending a 10-value analog sequence like **[15,23,12,20,20,21,10,21,22,10]** results in the prediction: Fire.
 
 ## Installation & Setup
 
